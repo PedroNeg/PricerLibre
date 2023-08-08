@@ -1,0 +1,9 @@
+*crear una API REST en python que diga HOLA MUNDO
+
+Como subir codigo a github
+
+AWS Cuenta
+
+
+Solucionar lo de las publicaciones catalogo
+

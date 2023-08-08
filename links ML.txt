@@ -1,0 +1,22 @@
+INFO PUBLICACION
+
+https://api.mercadolibre.com/items/MLA918953941
+
+
+COSTO ML PUBLICACION
+https://api.mercadolibre.com/sites/MLA/listing_prices?price=2983&category_id=MLA29302&listing_type_id=gold_special
+
+
+
+VARIAS PUBLICACIONES A LA VEZ
+
+https://api.mercadolibre.com/items?ids=MLA918953941,MLA1429875270,MLA1372548419#json
+
+
+
+Costo envio gratis publicaciones
+https://api.mercadolibre.com/items/shipping_options/free?ids=MLA918953941,MLA1429875270,MLA1372548419
+
+
+CONTRASEÑAS
+Orosc0s123
